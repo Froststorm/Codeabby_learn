@@ -32,7 +32,7 @@ summa = list(map(int, input_data.split())) #making int list
 summa = np.array(summa) #making numpy array
 #
 # lenArray = len(summa)
-summa.shape = (int(len(summa)/2), 2) #shaping array in two dimensional
+summa.shape = (int(len(summa)/2), 3) #shaping array in two dimensional
 
 # # print(lensumma)
 #
