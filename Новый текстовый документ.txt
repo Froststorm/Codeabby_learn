@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ваывапывпиаыв счммвам
 sdafsda 
 sdfasdf
 sdfa
+=======
+ваывапывпиаыв счммвам
+>>>>>>> origin/master
